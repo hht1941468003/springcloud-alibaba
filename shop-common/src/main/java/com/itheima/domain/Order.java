@@ -8,8 +8,23 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 //订单
-@Entity(name = "shop_order")
-@Data
-public class Order {
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
