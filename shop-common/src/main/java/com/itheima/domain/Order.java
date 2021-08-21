@@ -11,5 +11,5 @@ import javax.persistence.Id;
 @Entity(name = "shop_order")
 @Data
 public class Order {
-
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 }
